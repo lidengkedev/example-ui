@@ -1,0 +1,11 @@
+# npm
+node_modules
+
+# build
+dist
+
+# project
+.vscode
+
+# env
+.env.*.local

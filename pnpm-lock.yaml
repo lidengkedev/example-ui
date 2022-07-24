@@ -1,0 +1,9 @@
+lockfileVersion: 5.4
+
+importers:
+
+  examples:
+    specifiers:
+      vue-example-ui: workspace:^1.0.0
+    dependencies:
+      vue-example-ui: link:../packages/components
